@@ -1,4 +1,4 @@
-# Stagecoach Ticket Clone
+# Stagecoach Clone
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-This project is a clone of the Stagecoach Ticket application. It aims to replicate the functionality and design of the original application, providing a similar user experience. This project is excellent for understanding the underlying structure and coding practices used in a real-world application.<strong>THIS WEBSITE IS BUILT FOR MOBILE DEVICES.</STRONG>
+This project is a partial clone of the Stagecoach application. It aims to replicate the functionality and design of the original application, providing a similar user experience. This project is excellent for understanding the underlying structure and coding practices used in a real-world application.<strong>THIS WEBSITE IS BUILT FOR MOBILE DEVICES.</STRONG>
 
 ## Features
 
